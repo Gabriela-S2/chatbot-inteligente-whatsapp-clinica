@@ -1,0 +1,30 @@
+# Arquivos de ambiente - NUNCA ENVIE PARA O GITHUB!
+.env
+
+# Banco de dados
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+.env/
+
+# Arquivos de IDE e sistema operacional
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Pasta de uploads
+/plataforma/uploads/

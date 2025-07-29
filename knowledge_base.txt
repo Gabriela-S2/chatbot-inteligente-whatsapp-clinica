@@ -1,0 +1,141 @@
+# Base de Conhecimento da Clínica Casa de Madeira
+
+## Informações Gerais e Contato
+- Nome da Clínica: Casa de Madeira
+- Endereço: R. Delfino Machado, quadra 04, lote 16, nº 250, Bairro Rosário.
+- Instagram: @casademadeira
+- Telefone Fixo: (61) 3622-0629
+
+## Identidade do Bot
+- Se um usuário perguntar quem está falando, me apresento como: "a I.A. de Atendimento da Casa de Madeira".
+
+## Regra Geral de Agendamento
+- Para agendar, marcar ou se inscrever em qualquer serviço, o usuário deve ser encaminhado para um atendente humano. Minha função é fornecer todas as informações iniciais de forma clara para adiantar o atendimento.
+
+---
+
+## Horários de Funcionamento
+
+### Secretaria (Atendimento Geral)
+- Segunda-feira: 07:00 - 20:00
+- Terça-feira: 07:00 - 20:00
+- Quarta-feira: 07:00 - 20:00
+- Quinta-feira: 07:00 - 20:00
+- Sexta-feira: 07:00 - 19:00
+- Sábado e Domingo: Fechada
+
+### Horários Específicos por Serviço
+- Fisioterapia: Segunda à Sexta, de 07:00 às 18:00 (o último horário de agendamento é às 18h para uma sessão que termina às 19h).
+- RPG e Quiropraxia: Terça e Quinta, de 07:00 às 11:00 (o último horário de agendamento é às 11h para uma sessão que termina às 12h).
+- Acupuntura e Auriculoterapia: Segunda e Quinta, durante todo o horário de funcionamento da clínica, exceto no intervalo de almoço das 12h às 13h e após as 17h. A disponibilidade deve ser confirmada.
+- Pilates: Segunda à Quinta. Manhã: 07:00 às 10:00. Tarde: 16:00 às 18:00 (Terça/Quinta) e 16:00 às 19:00 (Segunda/Quarta).
+- Hidroginástica: Apenas dois horários disponíveis. Segunda e Quarta, às 07:00 ou às 18:00.
+- Natação (Funcionamento da Piscina): Segunda e Quarta (08:00 - 18:50), Terça e Quinta (08:00 - 19:20). O turno da manhã encerra às 11:20. O turno da tarde inicia às 16:00 (Seg/Qua) e 14:40 (Ter/Qui). É crucial informar ao cliente que as turmas têm horários específicos e a disponibilidade de vagas precisa ser consultada com um atendente.
+
+---
+
+## Convênios e Planos de Saúde
+
+- Atendemos convênios, mas a cobertura varia por serviço. Qualquer dúvida sobre atender por convenio para um procedimento diferente do informado, informa que infelizmente não atendemos, verificar se ofertamos o procedimento na clinica, e caso sim, enviar o orçamento para o procedimento por atendimento particular.
+- Amil: Cobre Fisioterapia.
+- Unimed: Cobre Fisioterapia e Acupuntura.
+- GDF: Cobre Fisioterapia.
+- Saúde Caixa: Cobre Fisioterapia.
+- Ipasluz: Cobre Fisioterapia.
+- Para todos os outros serviços não listados, o atendimento é particular.
+
+---
+
+## Serviços e Preços (Atendimento Particular)
+
+### Fisioterapia
+- Sessão avulsa: R$ 65,00
+- Pacote 10 sessões (cartão de crédito em 2x): R$ 650,00
+- Pacote 10 sessões (débito, dinheiro ou pix): R$ 585,00
+- Fisioterapia (Emergência): R$ 80,00 a sessão.
+
+### Quiropraxia
+- Valor: R$180,00 por consulta + sessão.
+
+### Pilates
+- Mensalidade: R$ 238,00 (2 aulas por semana).
+- Aula teste: R$ 40,00.
+
+### Hidroginástica
+- Mensalidade: R$ 218,00 (2 aulas por semana).
+- Aula teste: R$ 40,00.
+
+### Acupuntura
+- Avaliação inicial: R$ 100,00.
+- Sessão avulsa: R$ 100,00.
+- Pacote 4 sessões (à vista): R$ 360,00.
+- Pacote 10 sessões (à vista): R$ 900,00.
+- Pacote 10 sessões (cartão de crédito em 3x): R$ 1.000,00.
+
+### RPG (Reeducação Postural Global)
+- Avaliação: R$ 100,00.
+- 1 sessão: R$ 100,00.
+- 4 sessões (à vista): R$ 360,00.
+- 8 sessões (à vista): R$ 720,00.
+- 8 sessões (cartão de crédito em 3x): R$ 800,00.
+- Agendamento apenas após o pagamento.
+
+
+### Auriculoterapia / Auriculo
+- 1 sessão: R$ 30,00.
+- 5 sessões: R$ 135,00.
+
+### Massagem Relaxante ou Drenagem Linfática
+- 1 sessão: R$ 100,00.
+- 5 sessões: R$ 475,00.
+
+### Ventosaterapia
+- Valor: R$ 40,00 por sessão.
+
+### Psicologia
+- Consulta: R$ 150,00.
+
+### Tratamento com Canabidiol
+- Consulta: R$ 150,00.
+
+### Liberação Miofascial
+- Valor: R$ 150,00 por sessão.
+
+### Agulhamento a Seco
+- Valor: R$ 30,00 por cada membro tratado.
+- 5 sessões: R$ 135,00.
+
+### Kinésio / Bandagem Elástica
+- Apenas a fita (rolo): R$ 60,00 por unidade.
+- Aplicação usando a fita da clínica: R$ 30,00.
+- Aplicação se o paciente trouxer sua própria fita: R$ 15,00.
+
+---
+
+### Lógica para Natação Infantil (Instruções para a IA)
+
+- Se um usuário perguntar sobre natação, FAÇA AS SEGUINTES PERGUNTAS antes de fornecer um orçamento:
+  1. Qual a idade da criança?
+  2. Já fez aulas de natação anteriormente? Se sim, por quanto tempo?
+  3. Em qual período do dia (manhã/tarde) tem preferência?
+- Com base na IDADE, forneça o orçamento correspondente:
+
+#### Orçamento para Bebês (6 meses a 2 anos)
+- Mensalidade: R$ 238,00 (2 aulas/semana).
+- Material Pedagógico Obrigatório: R$ 80,00 (touca, passaporte, etc.).
+- Duração: 40 min.
+- Observação: Presença de um acompanhante na água é obrigatória.
+- Aula teste: R$ 40,00.
+
+#### Orçamento para Crianças (3 anos)
+- Mensalidade: R$ 238,00 (2 aulas/semana).
+- Material Pedagógico Obrigatório: R$ 80,00.
+- Duração: 40 min.
+- Observação: Não precisa de acompanhante na água.
+- Aula teste: R$ 40,00.
+
+#### Orçamento para Crianças (4 a 10 anos)
+- Mensalidade: R$ 218,00 (2 aulas/semana).
+- Material Pedagógico Obrigatório: R$ 80,00.
+- Duração: 40 min.
+- Aula teste: R$ 40,00.

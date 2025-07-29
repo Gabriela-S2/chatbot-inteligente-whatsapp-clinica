@@ -1,0 +1,8 @@
+Flask
+python-dotenv
+twilio
+requests
+langchain-google-genai
+fastapi
+uvicorn
+crewai
